@@ -1,4 +1,6 @@
-```text
+<h1 align="center">👋 ยินดีต้อนรับสู่โกดังเก็บของ Shinrakit</h1>
+
+<pre align="center">
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                                                                                 │
 │        ███████╗██╗  ██╗██╗███╗   ██╗██████╗  █████╗ ██╗  ██╗██╗████████╗        │
@@ -12,10 +14,13 @@
 │               [ AI ] [ Full Stack ] [ Machine Learning ] [ Data ]               │
 │                                                                                 │
 └─────────────────────────────────────────────────────────────────────────────────┘
-```
----
+</pre>
 
-<h1 align="">👋 ยินดีต้อนรับสู่โกดังเก็บของ Shinrakit</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shinrakit&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors" />
+</p>
+
+---
 
 ### 🌱 ตอนนี้กำลังทำและสนใจ
 
@@ -69,7 +74,3 @@
 </p>
 
 ---
-
-<p align="">
-  <img src="https://komarev.com/ghpvc/?username=Shinrakit&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors" />
-</p>
