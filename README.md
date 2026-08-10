@@ -1,4 +1,4 @@
-<h1 align="center">👋 ยินดีต้อนรับสู่โกดังเก็บของ Shinrakit</h1>
+<h1 align="center">👋 Welcome to Shinrakit's Corner</h1>
 
 <pre align="center">
 ┌─────────────────────────────────────────────────────────────────────────────────┐
@@ -22,16 +22,7 @@
 
 ---
 
-### 🌱 ตอนนี้กำลังทำและสนใจ
-
-- 🤖 **AI / Machine Learning** และการนำ AI ไปใช้กับโปรเจกต์จริง
-- 🌐 **Full Stack Web Development**
-- 🧩 **AI Agents / AI Coding**
-- 🎓 โปรเจกต์และงานด้าน Software Development ของมหาวิทยาลัย
-
----
-
-### 🛠️ ทักษะและเครื่องมือ (Tech Stack)
+### 🛠️ Tech Stack
 
 **Languages**
 
