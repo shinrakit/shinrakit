@@ -1,16 +1,75 @@
-## Hi there 👋
+```text
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                 │
+│        ███████╗██╗  ██╗██╗███╗   ██╗██████╗  █████╗ ██╗  ██╗██╗████████╗        │
+│        ██╔════╝██║  ██║██║████╗  ██║██╔══██╗██╔══██╗██║ ██╔╝██║╚══██╔══╝        │
+│        ███████╗███████║██║██╔██╗ ██║██████╔╝███████║█████╔╝ ██║   ██║           │
+│        ╚════██║██╔══██║██║██║╚██╗██║██╔══██╗██╔══██║██╔═██╗ ██║   ██║           │
+│        ███████║██║  ██║██║██║ ╚████║██║  ██║██║  ██║██║  ██╗██║   ██║           │
+│        ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝           │
+│                                                                                 │
+│              shinrakit@github:~$ building something interesting...              │
+│               [ AI ] [ Full Stack ] [ Machine Learning ] [ Data ]               │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
+```
+---
 
-<!--
-**shinrakit/shinrakit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="">👋 ยินดีต้อนรับสู่โกดังเก็บของ Shinrakit</h1>
 
-Here are some ideas to get you started:
+### 🌱 ตอนนี้กำลังทำและสนใจ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 **AI / Machine Learning** และการนำ AI ไปใช้กับโปรเจกต์จริง
+- 🌐 **Full Stack Web Development**
+- 🧩 **AI Agents / AI Coding**
+- 🎓 โปรเจกต์และงานด้าน Software Development ของมหาวิทยาลัย
+
+---
+
+### 🛠️ ทักษะและเครื่องมือ (Tech Stack)
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,dart,html,css" alt="Languages" />
+</p>
+
+**Frontend & Mobile**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,vite" alt="Frontend and Mobile" />
+</p>
+
+**Backend & Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb" alt="Backend and Database" />
+</p>
+
+**AI / Machine Learning**
+
+<p>
+  <img src="https://cdn.simpleicons.org/mediapipe/0097A7" width="48" height="48" alt="MediaPipe" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/ollama/000000" width="48" height="48" alt="Ollama" />
+</p>
+
+**Tools & Design**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,figma" alt="Tools and Design" />
+</p>
+
+**Deployment**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/render/000000" width="48" height="48" alt="Render" />
+</p>
+
+---
+
+<p align="">
+  <img src="https://komarev.com/ghpvc/?username=Shinrakit&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors" />
+</p>
