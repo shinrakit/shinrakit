@@ -11,7 +11,6 @@
 │        ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝           │
 │                                                                                 │
 │              shinrakit@github:~$ building something interesting...              │
-│               [ AI ] [ Full Stack ] [ Machine Learning ] [ Data ]               │
 │                                                                                 │
 └─────────────────────────────────────────────────────────────────────────────────┘
 </pre>
@@ -22,7 +21,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️
 
 **Languages**
 
