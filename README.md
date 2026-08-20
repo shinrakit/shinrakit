@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to Shinrakit's Corner</h1>
+<h1 align="center">👋 Welcome to Shinrakit Corner</h1>
 
 <pre align="center">
 ┌─────────────────────────────────────────────────────────────────────────────────┐
