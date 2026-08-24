@@ -1,5 +1,3 @@
-<h1 align="center">👋 Welcome to Shinrakit Corner</h1>
-
 <pre align="center">
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                                                                                 │
